@@ -1,4 +1,3 @@
-//  Copyright 2018 <Marcos Lessa>
 #ifndef STRUCTURES_AVL_TREE_H
 #define STRUCTURES_AVL_TREE_H
 
