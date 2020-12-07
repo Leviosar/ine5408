@@ -1,0 +1,3 @@
+[submodule "trabalhos/trie"]
+	path = trabalhos/trie
+	url = https://github.com/Leviosar/trie

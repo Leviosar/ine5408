@@ -1,4 +1,3 @@
-//  Copyright 2018 <Marcos Lessa>
 #ifndef STRUCTURES_BINARY_TREE_H
 #define STRUCTURES_BINARY_TREE_H
 
