@@ -275,4 +275,4 @@ Node* remove(T key, Node subtree) {
 
 1. Deterioração:
 
-Quando inserimos um elemento em uma árvore de buscar utilizando uma inserção simples, ao longo do tempo estaremos deteriorando nossa árvore, desbalanceando a quantidade de elementos em cada lado
+Quando inserimos um elemento em uma árvore de buscar utilizando uma inserção simples, ao longo do tempo estaremos deteriorando nossa árvore, desbalanceando a quantidade de elementos em cada lado.
